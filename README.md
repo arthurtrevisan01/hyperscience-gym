@@ -1,1 +1,0 @@
-# hyperscience-gym
